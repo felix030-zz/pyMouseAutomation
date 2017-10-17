@@ -27,8 +27,8 @@
       <file leaf-file-name="type.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/type.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="17" lean-forward="false" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+            <state relative-caret-position="585">
+              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -323,7 +323,14 @@
       <option name="project" value="LOCAL" />
       <updated>1508229296381</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="virtual environment added python3">
+      <created>1508229792361</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1508229792361</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -360,7 +367,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init push" />
     <MESSAGE value="code for server" />
-    <option name="LAST_COMMIT_MESSAGE" value="code for server" />
+    <MESSAGE value="virtual environment added python3" />
+    <option name="LAST_COMMIT_MESSAGE" value="virtual environment added python3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -420,8 +428,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/type.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="17" lean-forward="false" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        <state relative-caret-position="585">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
